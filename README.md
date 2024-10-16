@@ -9,7 +9,7 @@
 <hr>  
 <p align="center">
   <a target="_blank" href="https://github.com/frosttlink?tab=repositories"><img src="https://img.shields.io/static/v1?label=GITHUB&message=frosttlink&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Github"></a>
-  <a target="_blank" href="https://twitter.com/lleeon_14"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a target="_blank" href="https://twitter.com/frosttlink"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a target="_blank" href="https://www.instagram.com/lleooo.al_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
