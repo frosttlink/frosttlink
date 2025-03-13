@@ -13,4 +13,3 @@
   <a target="_blank" href="https://www.instagram.com/lleooo.al_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
-<a href="https://app.rocketseat.com.br/me/frostz"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=frostz&type=card" width="280" alt="Leonardo Alves Lopes's Rocket ID"/></a>
